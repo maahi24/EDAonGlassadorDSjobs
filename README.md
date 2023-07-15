@@ -24,6 +24,8 @@
 
 4. Categorical Variable Analysis: The distributions and frequencies of categorical variables were examined using bar charts or pie charts.
 
+5. Data Visualization :Visualizations such heatmaps were created to gain insights from the data.
+
 
 ## Conclusion
 The cleaning, transformation, and EDA processes on the Glassdoor Data Science Jobs dataset provide valuable insights into the characteristics and trends of data science jobs. The findings from this analysis can be used for further analysis or modeling tasks related to data science job market analysis or job recommendation systems.
