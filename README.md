@@ -1,3 +1,6 @@
+This README document provides an overview of the cleaning, transformation, and exploratory data analysis (EDA) performed on the Glassdoor Data Science Jobs dataset. The dataset contains information about various data science job postings on Glassdoor.
+
+
 
 ## Cleaning Steps:
 
